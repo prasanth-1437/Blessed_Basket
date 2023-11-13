@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Blessed_Basket/static/css/main.9d7af115.css",
+    "main.js": "/Blessed_Basket/static/js/main.26381d86.js",
+    "static/js/787.e2ac4b40.chunk.js": "/Blessed_Basket/static/js/787.e2ac4b40.chunk.js",
+    "index.html": "/Blessed_Basket/index.html",
+    "main.9d7af115.css.map": "/Blessed_Basket/static/css/main.9d7af115.css.map",
+    "main.26381d86.js.map": "/Blessed_Basket/static/js/main.26381d86.js.map",
+    "787.e2ac4b40.chunk.js.map": "/Blessed_Basket/static/js/787.e2ac4b40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7af115.css",
+    "static/js/main.26381d86.js"
+  ]
+}
